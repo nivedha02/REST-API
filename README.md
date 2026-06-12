@@ -1,5 +1,6 @@
 # REST-API
 15 problems — description and expected output only:
+
 **Problem 1 — Basic GET request**
 Make a GET request to `https://httpbin.org/get` and print the status code and the `url` field from the JSON response.
 ```
